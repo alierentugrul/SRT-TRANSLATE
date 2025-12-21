@@ -1,5 +1,11 @@
 # 🎬 AI Subtitle Translator (v4.0)
 
+---
+
+### 🎓 Proje Hakkında
+
+Bu proje, **İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü Mühendislikte Bilgisayar Uygulamaları I Dersi** kapsamında proje ödevi olarak geliştirilmiştir.
+
 Python ve Google Gemini API kullanılarak geliştirilmiş, modern arayüze sahip profesyonel altyazı (.srt) çeviri aracı.
 
 ## 🌟 Özellikler
