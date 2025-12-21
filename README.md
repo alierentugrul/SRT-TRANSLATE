@@ -14,7 +14,36 @@ Python ve Google Gemini API kullanılarak geliştirilmiş, modern arayüze sahip
 ## 🚀 Kurulum
 
 1. Projeyi indirin:
+
    ```bash
    git clone [https://github.com/alierentugrul/SRT-TRANSLATE.git](https://github.com/alierentugrul/SRT-TRANSLATE.git)
    cd AI-Subtitle-Translator
    ```
+
+2. Gerekli kütüphaneleri kurun:
+
+Bash
+
+pip install -r requirements.txt
+Uygulamayı çalıştırın:
+
+Bash
+
+python modern_cevirici.py
+🔑 Kullanım
+Google AI Studio adresinden ücretsiz bir API Key alın.
+
+Uygulamayı açın ve Ayarlar sekmesine API anahtarınızı girip kaydedin.
+
+Bir .srt dosyası seçin, hedef dili belirleyin ve başlatın!
+
+🛠️ Kullanılan Teknolojiler
+Python 3.10+
+
+CustomTkinter (GUI)
+
+Google Generative AI (Gemini)
+
+Threading (Eşzamanlı İşleme)
+
+Geliştirici: [Ali Eren Tuğrul]
