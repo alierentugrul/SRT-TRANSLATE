@@ -1,0 +1,21 @@
+# Python gereksizleri
+__pycache__/
+*.py[cod]
+
+# Sanal Ortam
+.venv/
+venv/
+
+# PyInstaller çıktıları (EXE dosyaları yüklenmez)
+build/
+dist/
+*.spec
+
+# VS Code ayarları
+.vscode/
+
+# GİZLİ VERİLER (Bunu sakın yükleme!)
+settings.json
+
+# Test dosyaları
+*.srt
