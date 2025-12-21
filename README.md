@@ -22,28 +22,28 @@ Python ve Google Gemini API kullanılarak geliştirilmiş, modern arayüze sahip
 
 2. Gerekli kütüphaneleri kurun:
 
-Bash
-
 pip install -r requirements.txt
+
 Uygulamayı çalıştırın:
 
-Bash
-
 python modern_cevirici.py
+
 🔑 Kullanım
-Google AI Studio adresinden ücretsiz bir API Key alın.
 
-Uygulamayı açın ve Ayarlar sekmesine API anahtarınızı girip kaydedin.
+1. Google AI Studio adresinden ücretsiz bir API Key alın.
 
-Bir .srt dosyası seçin, hedef dili belirleyin ve başlatın!
+2. Uygulamayı açın ve Ayarlar sekmesine API anahtarınızı girip kaydedin.
+
+3. Bir .srt dosyası seçin, hedef dili belirleyin ve başlatın!
 
 🛠️ Kullanılan Teknolojiler
-Python 3.10+
 
-CustomTkinter (GUI)
+- Python 3.10+
 
-Google Generative AI (Gemini)
+- CustomTkinter (GUI)
 
-Threading (Eşzamanlı İşleme)
+- Google Generative AI (Gemini)
+
+- Threading (Eşzamanlı İşleme)
 
 Geliştirici: [Ali Eren Tuğrul]
