@@ -24,7 +24,7 @@ Python ve Google Gemini API kullanılarak geliştirilmiş, modern arayüze sahip
 
 pip install -r requirements.txt
 
-Uygulamayı çalıştırın:
+3. Uygulamayı çalıştırın:
 
 python modern_cevirici.py
 
