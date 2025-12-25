@@ -10,7 +10,7 @@ Python ve Google Gemini API kullanılarak geliştirilmiş, modern arayüze sahip
 
 ## 🌟 Özellikler
 
-- **Yapay Zeka Destekli:** Google Gemini 1.5 Flash modeli ile bağlamı anlayan çeviriler.
+- **Yapay Zeka Destekli:** Google Gemini 2.5 Flash modeli ile bağlamı anlayan çeviriler.
 - **Akıllı Argo Çevirisi:** "Damn it" gibi kelimeleri "Lanet olsun" şeklinde duruma uygun çevirir.
 - **Format Koruma:** Zaman kodlarını ve satır yapılarını asla bozmaz.
 - **Modern Arayüz:** CustomTkinter ile geliştirilmiş Dark/Light modlu şık tasarım.
