@@ -6,7 +6,7 @@ __pycache__/
 .venv/
 venv/
 
-# PyInstaller çıktıları (EXE dosyaları yüklenmez)
+# PyInstaller çıktıları 
 build/
 dist/
 *.spec
@@ -14,7 +14,7 @@ dist/
 # VS Code ayarları
 .vscode/
 
-# GİZLİ VERİLER (Bunu sakın yükleme!)
+# GİZLİ VERİLER 
 settings.json
 
 # Test dosyaları
